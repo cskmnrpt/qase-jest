@@ -1,4 +1,4 @@
-const { qase } = require("jest-qase-reporter/jest");
+const { qase } = require('jest-qase-reporter/jest');
 
 describe("Example: attach.spec.js", () => {
   test("Test result with attachment", async () => {

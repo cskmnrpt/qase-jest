@@ -1,4 +1,4 @@
-const { qase } = require("jest-qase-reporter/jest");
+const { qase } = require('jest-qase-reporter/jest');
 
 describe("Example: ignore.spec.js", () => {
   test("This test is executed using Jest; however, it is NOT reported to Qase", () => {

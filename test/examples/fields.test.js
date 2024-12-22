@@ -1,4 +1,4 @@
-const { qase } = require("jest-qase-reporter/jest");
+const { qase } = require('jest-qase-reporter/jest');
 const { markdownContent } = require("./markdownContent");
 
 describe("Example: fields.spec.js\tTest cases with field: Priority", () => {
